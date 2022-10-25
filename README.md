@@ -1,4 +1,4 @@
-<h1> align="center">Hi 👋, I'm Ignacio!</h1>
+<h1 align="center">Hi 👋, I'm Ignacio!</h1>
 <h3 align="center">A passionate and a lifelong learner developer from Argentina, primarily focused on Full Stack!</h3>
 
 - 🔭 I’m currently working on **expanding my knowledge**
