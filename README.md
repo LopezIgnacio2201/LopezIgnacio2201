@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ignacio!</h1>
 <h3 align="center">A passionate and a lifelong learner developer from Argentina, primarily focused on Full Stack!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lopezignacio2201&label=Profile%20views&color=0e75b6&style=flat" alt="lopezignacio2201" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lopezignacio2201" alt="lopezignacio2201" /></a> </p>
-
 - 🔭 I’m currently working on **expanding my knowledge**
 
 - 🌱 I’m currently learning **MERN Stack!**
