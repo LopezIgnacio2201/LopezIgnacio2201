@@ -123,4 +123,4 @@
 <br />
 
 ----
-<div align="center">Thanks and credits to <a href="https://github.com/rishavanand" target="_blank">for this!</a></div>
+<div align="center">Thanks and credits to <a href="https://github.com/rishavanand" target="_blank">rishavanand</a> for this!</div>
