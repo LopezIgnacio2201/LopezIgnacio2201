@@ -108,7 +108,9 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=LopezIgnacio2201&&style=flat-square)  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=LopezIgnacio2201&&style=flat-square" align="center" />
+</div>  
   
 
 <br/>  
