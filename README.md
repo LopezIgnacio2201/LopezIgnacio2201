@@ -1,4 +1,4 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="" width="800" />  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="800" />  
   
 
 ## Hi there! I'm Ignacio, my pleasure.  
