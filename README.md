@@ -32,7 +32,7 @@
 <br/>  
 
 
-## Rapidfire  
+## 
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on a verified certification on Computer Science through [edX](https://www.edx.org/es/course/introduction-computer-science-harvardx-cs50x)  
@@ -43,10 +43,6 @@
   
 
 - ❓ Ask me about anything, I'll gladly share my knowledge with you and be honoured to help in any way i can! Or just have a little nice chit-chat, Informatics related or not, it's always nice to meet people from around the globe 😁  
-
-
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
