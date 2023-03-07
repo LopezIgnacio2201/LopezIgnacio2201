@@ -1,7 +1,7 @@
-## <div align="center">Hi there! I'm Ignacio, my pleasure.</div>  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
   
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="" width="800" />  
+## <div align="center">Hi there! I'm Ignacio, my pleasure.</div>  
   
 
 <a href="https://github.com/LopezIgnacio2201" target="_blank">
