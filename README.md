@@ -83,7 +83,7 @@
 
 </td><td valign="top" width="50%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LopezIgnacio2201)](https://github.com/LopezIgnacio2201/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LopezIgnacio2201&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 
 </td></tr></table>  
