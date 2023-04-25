@@ -1,7 +1,7 @@
- # <div align="center">Hi there! I'm Ignacio, my pleasure.</div>  
-  
-
-<div align="center">
+ # <div align="center">Hi there! I'm Ignacio, my pleasure.</div>  <!-- title -->
+ 
+<!-- starts images to social media -->
+<div align="center"> 
 <a href="https://github.com/LopezIgnacio2201" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -13,20 +13,24 @@
 </a>  
 </div>  
 
+<!-- ends images -->
+
   <br/>
 
 <div align="center">
-<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" align="center"/>
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" align="center"/> <!-- aesthetic image -->
 </div>  
   
 <br>
 
+<!-- description -->
+
 ### <div align="center"> Glad to see you here! Here's a glimpse about myself. </div>
 📚 I'm a self-taught student with a burning passion for Cyber Security, reverse engineering, and networking. I am currently pursuing a degree in Computer Science to further develop my skills in these areas. I am also interested in malware analysis and programming, which I enjoy as hobbies. My ultimate goal is to secure a job in the tech industry where I can apply my skills and make a meaningful impact. Although I do not have previous working experience in these fields, I am confident in my ability to learn quickly and work collaboratively with a team to achieve our goals.  
   
-
 <br/>  
 
+<!-- block of interesting stuff -->
 
 ## 
 <table><tr><td valign="top" width="50%">
@@ -40,11 +44,13 @@
 
 - ❓ Ask me about anything, I'll gladly share my knowledge with you and be honoured to help in any way i can! Or just have a little nice chit-chat, Informatics related or not, it's always nice to meet people from around the globe 😁  
 
-
 </td></tr></table>  
+
+<!-- end block -->
 
 <br/>  
 
+<!-- start block of languages -->
 
 # Languages and Tools  
 <div align="center">  
@@ -68,8 +74,11 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="75" /></a>  
 </div>  
 
+<!-- end block of languages -->
+
 <br/>  
 
+<!-- start block of gitstats -->
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
@@ -83,6 +92,8 @@
 
 </td></tr></table>  
 
+<!-- end block of gitstats -->
+
 <br/>  
 
 ###### <div align="center">_______________________________________________________________________________________________________
@@ -90,13 +101,18 @@
 
 </div>  
   
+<!-- start block of trivial stuff -->  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=nach02001&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
+<!-- end block of trivial stuff -->
+
+<!-- footer -->
+
 ###### <div align="center"></div>  
-
-
 
 <div align="center">
 <sub>Thanks and credits to <a href="https://github.com/rishavanand" target="_blank">rishavanand</a> for this!</sub>
 </div> 
+
+<!-- end footer -->
