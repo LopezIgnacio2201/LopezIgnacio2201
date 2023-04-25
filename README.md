@@ -16,17 +16,12 @@
   <br/>
 
 <div align="center">
-<img src="https://media2.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif?cid=6c09b952r5gqdlctn9o41sior0wmdosthd0xyh7x9eqrp8kj&rid=giphy.gif&ct=s" align="center" style="width:100%;height:350px;"/>
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" align="center"/>
 </div>  
   
+<br>
 
-
-
-
-
-
-
-### Glad to see you here! Here's a glimpse about myself.  
+### <div align="center"> Glad to see you here! Here's a glimpse about myself. </div>
 📚 I'm a self-taught student with a burning passion for Cyber Security, reverse engineering, and networking. I am currently pursuing a degree in Computer Science to further develop my skills in these areas. I am also interested in malware analysis and programming, which I enjoy as hobbies. My ultimate goal is to secure a job in the tech industry where I can apply my skills and make a meaningful impact. Although I do not have previous working experience in these fields, I am confident in my ability to learn quickly and work collaboratively with a team to achieve our goals.  
   
 
@@ -93,36 +88,15 @@
 ###### <div align="center">_______________________________________________________________________________________________________
 
 
-
-
-
-
 </div>  
   
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=nach02001&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 ###### <div align="center"></div>  
-  
 
-<img src="https://images.hdqwalls.com/download/goodbye-friend-mr-robot-typography-4k-f0-1920x1080.jpg" align="left" style="width: 100%" />  
-  
 
-<br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=LopezIgnacio2201&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Thanks and credits to <a href="https://github.com/rishavanand" target="_blank">rishavanand</a> for this!</div>
+<sub>Thanks and credits to <a href="https://github.com/rishavanand" target="_blank">rishavanand</a> for this!</sub>
+</div> 
